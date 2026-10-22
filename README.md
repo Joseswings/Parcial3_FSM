@@ -20,6 +20,5 @@ A continuación se encuentran los enlaces a los videos explicativos donde se det
 
 * 🎥 **[Video 1: Análisis de Timing (Inciso 1)](ENLACE_AQUI)**
 * 🎥 **[Video 2: Simulación y Discusión de Vivado (Inciso 2 - Parte B y C)](ENLACE_AQUI)**
-* 🎥 **[Video 3: Demostración Física en Basys 3 (Inciso 2 - Parte D)](ENLACE_AQUI)**
+* 🎥 **[Video 3: Demostración Física en Basys 3 (Inciso 2 - Parte D)](https://youtube.com/shorts/UHma5ooWYgU?feature=share)**
 
-*(Nota: Reemplaza "ENLACE_AQUI" con tus links ocultos de YouTube)*
